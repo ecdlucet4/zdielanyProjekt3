@@ -1,0 +1,1 @@
+print("Ahoj svet v main5.py")
