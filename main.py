@@ -1,3 +1,4 @@
+# Toto je poznamka, resp. dalsi kod, ale od pouzivatela ecdlucet4
 # This is a sample Python script.
 
 # Press ⌃R to execute it or replace it with your code.
